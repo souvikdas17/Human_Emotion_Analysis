@@ -36,7 +36,7 @@ This project aims to detect and classify human emotions from facial expressions 
    git clone https://github.com/souvikdas17/Human_Emotion_Analysis.git
    cd Human_Emotion_Analysis
 2. Open UI.py
-3. Change the Model path to your_path.
+3. Change the Model path to your_path_model_path.
 4. Run 'Streamlit run UI.py' on your Command bash.
 
 
